@@ -1,7 +1,6 @@
 extends CollisionShape2D
 
-for i in range(100):
-	adfasdf
+bruh moments
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
