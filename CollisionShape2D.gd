@@ -5,6 +5,7 @@ bruh moments
 # var a = 2
 # var b = "text"
 
+#maam hernz
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
