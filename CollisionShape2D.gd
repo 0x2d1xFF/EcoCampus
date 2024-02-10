@@ -1,11 +1,11 @@
 extends CollisionShape2D
 
-bruh moments
+for i in range(100):
+	adfasdf
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
 
-#maam hernz
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
